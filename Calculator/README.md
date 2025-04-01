@@ -84,6 +84,21 @@ scanf(" %c", &repeat);
 - If `y`, the program continues.
 - If `n`, the program exits.
 
+## Compilation
+To compile the program, use the following command:
+
+```bash
+gcc -o calculator calculator.c
+```
+
+This will compile the `calculator.c` file into an executable named `calculator`. 
+
+To run the program, use:
+
+```bash
+./calculator
+```
+
 ## Summary
 Key takeaways from this code:
 - `printf()` and `scanf()` for user interaction.
