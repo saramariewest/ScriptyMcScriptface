@@ -9,7 +9,7 @@
    \|_________|                                          \|___|/                                 \|_________|                                                                                    
                                                                                                                                                                                                  
 ```
-ScriptyMcScriptface
+# ScriptyMcScriptface
 
 A collection of various scripts and small programs—automation tools, experiments, and utilities.
 Contents:
